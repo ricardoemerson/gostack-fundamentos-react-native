@@ -32,8 +32,10 @@
     "import/prefer-default-export": "off",
     "react/prop-types": "off",
     "no-unused-expressions": "off",
+    "no-use-before-define": "off",
     "react/jsx-props-no-spreading": "off",
     "@typescript-eslint/camelcase": "off",
+    "@typescript-eslint/no-use-before-define": "off",
     "@typescript-eslint/explicit-function-return-type": [
       "error",
       {
